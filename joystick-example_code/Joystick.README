@@ -10,7 +10,6 @@ This repository contains an Arduino sketch that interfaces with a joystick to re
 To use this code, you will need an Arduino board and a joystick with X and Y analog outputs. Connect the VRX and VRY pins from the joystick to the corresponding analog pins on the Arduino board.
 
 ## Hardware Setup
-
 1. Connect the X-axis output of the joystick to the VRX_PIN (Analog pin 0) on the Arduino.
 2. Connect the Y-axis output of the joystick to the VRY_PIN (Analog pin 1) on the Arduino.
 
@@ -20,7 +19,6 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 3. Upload the sketch to your Arduino board.
 
 ## Usage
-
 1. Connect the Arduino to your computer using a USB cable.
 2. Open the Serial Monitor in the Arduino IDE (`Tools > Serial Monitor`).
 3. Make sure the baud rate is set to 9600.
@@ -28,12 +26,10 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 5. Move the joystick in different directions to observe changes in the values.
 
 ## Notes
-
 - The `delay(200)` in the `loop()` function introduces a small delay (200 milliseconds) between readings to prevent excessive data output. You can adjust this value according to your needs.
 - Ensure that the joystick is properly calibrated and functioning to obtain accurate readings.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute this code as per the terms of the MIT License.
