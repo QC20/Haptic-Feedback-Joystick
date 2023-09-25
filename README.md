@@ -19,7 +19,6 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 3. Upload the sketch to your Arduino board.
 
 ## Usage
-
 1. Connect the Arduino to your computer using a USB cable.
 2. Open the Serial Monitor in the Arduino IDE (`Tools > Serial Monitor`).
 3. Make sure the baud rate is set to 9600.
