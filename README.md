@@ -30,7 +30,6 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 - Ensure that the joystick is properly calibrated and functioning to obtain accurate readings.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute this code as per the terms of the MIT License.
