@@ -10,7 +10,6 @@ This repository contains an Arduino sketch that interfaces with a joystick to re
 To use this code, you will need an Arduino board and a joystick with X and Y analog outputs. Connect the VRX and VRY pins from the joystick to the corresponding analog pins on the Arduino board.
 
 ## Hardware Setup
-
 1. Connect the X-axis output of the joystick to the VRX_PIN (Analog pin 0) on the Arduino.
 2. Connect the Y-axis output of the joystick to the VRY_PIN (Analog pin 1) on the Arduino.
 
