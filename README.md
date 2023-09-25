@@ -26,7 +26,6 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 5. Move the joystick in different directions to observe changes in the values.
 
 ## Notes
-
 - The `delay(200)` in the `loop()` function introduces a small delay (200 milliseconds) between readings to prevent excessive data output. You can adjust this value according to your needs.
 - Ensure that the joystick is properly calibrated and functioning to obtain accurate readings.
 
