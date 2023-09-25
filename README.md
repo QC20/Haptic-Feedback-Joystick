@@ -14,7 +14,6 @@ To use this code, you will need an Arduino board and a joystick with X and Y ana
 2. Connect the Y-axis output of the joystick to the VRY_PIN (Analog pin 1) on the Arduino.
 
 ## Software Setup
-
 1. Install the Arduino IDE on your computer if you haven't already.
 2. Open the `joystick_interface.ino` sketch file in the Arduino IDE.
 3. Upload the sketch to your Arduino board.
