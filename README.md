@@ -7,7 +7,6 @@
 This repository contains an Arduino sketch that interfaces with a joystick to read analog values from its X and Y axes. The sketch prints the X and Y axis values to the Serial Monitor in the Arduino IDE.
 
 ## Getting Started
-
 To use this code, you will need an Arduino board and a joystick with X and Y analog outputs. Connect the VRX and VRY pins from the joystick to the corresponding analog pins on the Arduino board.
 
 ## Hardware Setup
