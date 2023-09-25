@@ -4,7 +4,6 @@
 **Date:** July 10th, 2023
 
 ## Description
-
 This repository contains an Arduino sketch that interfaces with a joystick to read analog values from its X and Y axes. The sketch prints the X and Y axis values to the Serial Monitor in the Arduino IDE.
 
 ## Getting Started
